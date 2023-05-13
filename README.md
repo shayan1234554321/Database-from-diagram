@@ -98,3 +98,9 @@ Feel free to check [issues page](https://github.com/shayan1234554321/Database-fr
 If you like this project, please give it a ⭐️!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## License <a name="license"></a>
+
+This project is [MIT](./LICENSE) Licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
